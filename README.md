@@ -8,10 +8,10 @@
   - [Overview](#overview)
   - [Installation](#installation)
   - [Data](#data)
-  - [Project Structure](#project-Structure)
+  - [Project Structure](#project-structure)
     - [Notebooks](#notebooks)
-    - [Data](#data)
-  - [Acknowledgements](#Acknowledgements)
+  - [Tools Used](#tools-used)
+  - [Acknowledgements](#acknowledgements)
   - [Contact](#contact)
 
 
@@ -39,10 +39,20 @@ Data source For this Project was given as sampled Traffic Data.
 ### Notebooks 
 This folder holds the nooteboks used to process and visualize the data 
 - Data exploration and Preprocessing - holds Data Exploratory and visualizations
-### Data
-This folder holds the Traffic data of the project
-  - Global preprocessed data
 
+
+## Tools Used
+Apache Airflow -
+    A workflow manager to schedule, orchestrate and monitor workflows. Directed acyclic graphs (DAG) are used by Airflow to control workflow orchestration.
+     
+Postgresql -
+     An object-relational database management system (ORDBMS) with an emphasis on extensibility and standards compliance. This is the database which we  will be migrating data from.
+     
+DBT -
+  Enables transforming data in warehouses by simply writing select statements. It handles turning these select statements into tables and views.
+
+Redash -
+   An open-source web application used for clearing databases and visualizing the results. This is the dashboard builder tool we will be migrating from.
 
 ## Contact
 Zelalem Shiferaw - zelalemshiferaw71921@gmail.com
