@@ -42,16 +42,16 @@ This folder holds the nooteboks used to process and visualize the data
 
 
 ## Tools Used
-Apache Airflow -
+### Apache Airflow -
     A workflow manager to schedule, orchestrate and monitor workflows. Directed acyclic graphs (DAG) are used by Airflow to control workflow orchestration.
      
-Postgresql -
+### Postgresql -
      An object-relational database management system (ORDBMS) with an emphasis on extensibility and standards compliance.
      
-DBT -
+### DBT -
   Enables transforming data in warehouses by simply writing select statements. It handles turning these select statements into tables and views.
 
-Redash -
+### Redash -
    An open-source web application used for clearing databases and visualizing the results. This is the dashboard builder tool we will be migrating from.
 
 ## Contact
