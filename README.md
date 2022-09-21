@@ -11,6 +11,7 @@
   - [Project Structure](#project-Structure)
     - [Notebooks](#notebooks)
     - [Data](#data)
+  - [Acknowledgements](#Acknowledgements)
   - [Contact](#contact)
 
 
@@ -46,6 +47,8 @@ This folder holds the Traffic data of the project
 ## Contact
 Zelalem Shiferaw - zelalemshiferaw71921@gmail.com
 
+## Acknowledgements
+* [10 Academy](https://www.10academy.org/)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/zelalem-shiferaw-48a070187
