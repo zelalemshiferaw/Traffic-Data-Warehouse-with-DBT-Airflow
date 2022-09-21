@@ -46,7 +46,7 @@ Apache Airflow -
     A workflow manager to schedule, orchestrate and monitor workflows. Directed acyclic graphs (DAG) are used by Airflow to control workflow orchestration.
      
 Postgresql -
-     An object-relational database management system (ORDBMS) with an emphasis on extensibility and standards compliance. This is the database which we  will be migrating data from.
+     An object-relational database management system (ORDBMS) with an emphasis on extensibility and standards compliance.
      
 DBT -
   Enables transforming data in warehouses by simply writing select statements. It handles turning these select statements into tables and views.
