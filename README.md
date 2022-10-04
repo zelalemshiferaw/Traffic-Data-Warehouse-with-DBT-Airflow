@@ -1,4 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 #  Traffic-Data-Warehouse-with-DBT-Airflow
 
 **Table of content**
@@ -62,4 +63,3 @@ Zelalem Shiferaw - zelalemshiferaw71921@gmail.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/zelalem-shiferaw-48a070187
-
