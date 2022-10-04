@@ -1,6 +1,4 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Contributors][contributors-shield]][contributors-url][![Forks][forks-shield]][forks-url][![Stargazers][stars-shield]][stars-url][![Issues][issues-shield]][issues-url][![MIT License][license-shield]][license-url][![LinkedIn][linkedin-shield]]
-
 #  Traffic-Data-Warehouse-with-DBT-Airflow
 
 **Table of content**
@@ -64,25 +62,4 @@ Zelalem Shiferaw - zelalemshiferaw71921@gmail.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/zelalem-shiferaw-48a070187
-[contributors-shield]: https://img.shields.io/github/contributors/zelalemshiferaw/Traffic-Data-Warehouse-with-DBT-Airflow
-.svg?style=for-the-badge
-
-[my-profile]: https://github.com/zelalemshiferaw
-[contributors-url]: https://github.com/zelalemshiferaw/Traffic-Data-Warehouse-with-DBT-Airflow
-/graphs/contributors
-.svg?style=for-the-badge
-[forks-url]: https://github.com/zelalemshiferaw/Traffic-Data-Warehouse-with-DBT-Airflow
-/network/members
-[stars-shield]: https://img.shields.io/github/stars/zelalemshiferaw/Traffic-Data-Warehouse-with-DBT-Airflow
-.svg?style=for-the-badge
-[stars-url]: https://github.com/zelalemshiferaw/Traffic-Data-Warehouse-with-DBT-Airflow
-/stargazers
-[issues-shield]: https://img.shields.io/github/issues/zelalemshiferaw/Traffic-Data-Warehouse-with-DBT-Airflow
-.svg?style=for-the-badge
-[issues-url]: https://github.com/zelalemshiferaw/Traffic-Data-Warehouse-with-DBT-Airflow
-/issues
-[license-shield]: https://img.shields.io/github/license/zelalemshiferaw/Traffic-Data-Warehouse-with-DBT-Airflow
-.svg?style=for-the-badge
-[license-url]: https://github.com/zelalemshiferaw/Traffic-Data-Warehouse-with-DBT-Airflow
-/blob/master/LICENSE
 
